@@ -357,5 +357,6 @@ Para realizar queries e validar se os dados existem:
 
 
 
+
 Developed by [Diogo Ferreira](https://www.linkedin.com/in/diogo-santos01/)
-### Desenvolvedor de Software Back-End
+

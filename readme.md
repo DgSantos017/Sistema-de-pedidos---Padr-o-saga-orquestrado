@@ -47,8 +47,7 @@
 
 [Voltar ao início](#sum%C3%A1rio)
 
-
-![Arquitetura](Conte%C3%BAdos/Arquitetura%20Proposta.png)
+![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/abb6ce28-475f-4cee-bb4d-2a417d45fd2b)
 
 Em nossa arquitetura, teremos 5 serviços:
 

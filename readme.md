@@ -1,4 +1,5 @@
 # Sistema de pedidos - Arquitetura de Microsserviços: Padrão Saga Orquestrado
+![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/abb6ce28-475f-4cee-bb4d-2a417d45fd2b)
 
 ### Sumário:
 
@@ -45,9 +46,10 @@
 
 # Arquitetura Proposta
 
-[Voltar ao início](#sum%C3%A1rio)
+![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/f95405bc-dc32-49eb-a97a-df9a96a7a31c)
 
-![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/abb6ce28-475f-4cee-bb4d-2a417d45fd2b)
+
+[Voltar ao início](#sum%C3%A1rio)
 
 Em nossa arquitetura, teremos 5 serviços:
 
@@ -143,7 +145,8 @@ http://localhost:3000/swagger-ui.html
 
 Você chegará nesta página:
 
-![Swagger](Conte%C3%BAdos/Documentacao.png)
+![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/2e862e6a-8ced-48d8-9750-263cb2abd08b)
+
 
 As aplicações executarão nas seguintes portas:
 
@@ -169,7 +172,8 @@ http://localhost:8081
 
 Você chegará nesta página:
 
-![Redpanda](Conte%C3%BAdos/Redpanda%20Kafka.png)
+![image](https://github.com/DgSantos017/Sistema-de-pedidos---Padr-o-saga-orquestrado/assets/62971277/7c84ff34-1e9a-4ce6-9c50-1b1959ba8318)
+
 
 ## Dados da API
 
